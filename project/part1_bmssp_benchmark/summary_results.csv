@@ -1,0 +1,5 @@
+dataset,n,m,time_dijkstra,time_bmssp
+polblogs.edgelist,1490,19022,0.000122292,8.6833e-05
+web-NotreDame.edgelist,325729,1497134,0.0436594,0.000616041
+web-Stanford.edgelist,281904,2312497,0.000271625,0.00040825
+wiki-Vote.edgelist,8298,103689,1.3834e-05,2.4708e-05
